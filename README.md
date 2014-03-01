@@ -26,20 +26,20 @@
 <div>
 	<p>
 		# Python3 wathcitf
-		<br/>
+		<br/><br/>
 		OR
-		<br/>
+		<br/><br/>
 		If python 3 is the only version of python in your computer
 		<br/>
 		# Python wathcitf
-		<br/>
+		<br/><br/>
 		OR
-		<br/>
+		<br/><br/>
 		You can run the script like application
 		<br/>
 		# chmod +x wathcitf
 		<br/>
 		# ./wathcitf
-		<br/>
+		<br/><br/>
 	</p>
 </div>
