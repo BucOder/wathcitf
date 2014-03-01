@@ -20,8 +20,21 @@
 	<p>
 		Python 3 is needed.
 		<br/>
-		Replace the PATH_FILE by the path of your file name and run this script.
+		Don't use the ~ in the FOLDER_PATH !
 		<br/>
+		Replace the FOLDER_PATH by the path of where your file is store.
+		<br/>
+		Replace the FILE_NAME by the css file name (include extension).
+		<br/>
+		Run the script.
+	</p>
+</div>
+<h2>Example of configuration</h2
+<div>
+	<p>
+		FOLDER_PATH = '../Documents/css/'
+		<br/>
+		FILE_NAME = 'style.css'
 	</p>
 </div>
 <h2>Syntax</h2>
