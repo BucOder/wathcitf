@@ -6,11 +6,11 @@
 		This script search all hexa color in the css file
 	</p>
 	<p>
-		Romain (BucOder) SOMMERARD
-		<br/>
-		http://www.bucoder.com
-		<br/>
-		Distributed under the GPL version 3 licence
+		<ul>
+			<li>Romain (BucOder) SOMMERARD</li>
+			<li>http://www.bucoder.com</li>
+			<li>Distributed under the GPL version 3 licence</li>
+		</ul>
 	</p>
 </div>
 <h2>Usage</h2>
@@ -25,21 +25,21 @@
 <h2>Syntax</h2>
 <div>
 	<p>
-		\# Python3 wathcitf
+		# Python3 wathcitf
 		<br/>
 		OR
 		<br/>
-		if python 3 is the only version of python in your computer
+		If python 3 is the only version of python in your computer
 		<br/>
-		\# Python wathcitf
+		# Python wathcitf
 		<br/>
 		OR
 		<br/>
-		you can run the script like application
+		You can run the script like application
 		<br/>
-		\# chmod +x wathcitf
+		# chmod +x wathcitf
 		<br/>
-		\# ./wathcitf
+		# ./wathcitf
 		<br/>
 	</p>
 </div>
