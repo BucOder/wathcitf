@@ -1,15 +1,17 @@
-<h1>wathcitf</h1>
+<h1>Wathcitf</h1>
 <div>
 	<p>
-		wathcitf script : What are the hexa colors in this file ?
+		Wathcitf script : What are the hexa colors in this file ?
 		<br/>
-		This script search all hexa color in the css file
+		This script search all hexa color in the css file.
+		<br/>
+		One color by line detected.
 	</p>
 	<p>
 		<ul>
 			<li>Romain (BucOder) SOMMERARD</li>
 			<li>http://www.bucoder.com</li>
-			<li>Distributed under the GPL version 3 licence</li>
+			<li>Distributed under the GPL version 3 licence.</li>
 		</ul>
 	</p>
 </div>
@@ -29,13 +31,13 @@
 		<br/><br/>
 		OR
 		<br/><br/>
-		If python 3 is the only version of python in your computer
+		If python 3 is the only version of python in your computer.
 		<br/>
 		# Python wathcitf
 		<br/><br/>
 		OR
 		<br/><br/>
-		You can run the script like application
+		You can run the script like application.
 		<br/>
 		# chmod +x wathcitf
 		<br/>
