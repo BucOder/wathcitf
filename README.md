@@ -1,7 +1,7 @@
 wathcitf
 ========
 
-wathcitf script : What are the hexa colors in this file ?
+wathcitf script : What are the hexa colors in this file ?\n
 This script search all hexa color in the css file
 
 Romain (BucOder) SOMMERARD
@@ -17,15 +17,15 @@ Replace the PATH_FILE by the path of your file name and run this script.
 syntax
 ========
 
-# Python3 wathcitf
+\# Python3 wathcitf
 
 OR      
 
 if python 3 is the only version of python in your computer
-# Python wathcitf
+\# Python wathcitf
 
 OR
 
 you can run the script like application
-# chmod +x wathcitf
-# ./wathcitf
+\# chmod +x wathcitf
+\# ./wathcitf
