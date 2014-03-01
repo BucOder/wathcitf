@@ -1,7 +1,7 @@
 wathcitf
 ========
 
-wathcitf script : What are the hexa colors in this file ?\n
+wathcitf script : What are the hexa colors in this file ?
 This script search all hexa color in the css file
 
 Romain (BucOder) SOMMERARD
